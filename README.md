@@ -1,4 +1,4 @@
-vim-kminus
+k-.vim
 ========
 
 Install with [vim-plug][]
