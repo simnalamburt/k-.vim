@@ -6,6 +6,8 @@ Install with [vim-plug][]
 Plug 'simnalamburt/k-.vim'
 ```
 
+![](http://i.imgur.com/fCriUhm.png)
+
 What is *K-*?
 --------
 K-(케이 마이너스)는 서울대학교의 프로그래밍 언어 수업에서 과제로 만드는, 모의
