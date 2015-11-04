@@ -12,7 +12,7 @@ syn region  kmParen start="(" end=")" contains=kmKeyword,kmConst,kmNumber,kmOper
 syn region  kmBrace start="{" end="}" contains=kmKeyword,kmConst,kmNumber,kmOperator,kmParen,kmBrace,kmComment
 syn region  kmComment start="(\*" end="\*)"
 
-syn keyword kmKeyword   not if then else let in proc while do read write
+syn keyword kmKeyword   not if then else let in proc while for do read write
 syn keyword kmConst     unit true false
 syn match   kmNumber    "\<-\?\d\(\d\)*\>"
 syn match   kmOperator  "\(:=\|+\|-\|*\|\/\|=\)"

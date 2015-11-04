@@ -1,1 +1,1 @@
-au BufRead,BufNewFile *.k- set ft=k-
+au BufRead,BufNewFile *.k-,*.k-- set ft=k-
