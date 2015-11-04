@@ -1,7 +1,6 @@
 k-.vim
 ========
-
-Install with [vim-plug][]
+Vim syntax highlighter for [K-][] and [K--][] Language. Install with [vim-plug][].
 ```vim
 Plug 'simnalamburt/k-.vim'
 ```
@@ -14,8 +13,8 @@ K-(케이 마이너스)와 K--는 서울대학교의 프로그래밍 언어 수�
 프로그래밍 언어입니다. 이 플러그인을 설치하면 vim에서도 K-, K-- 언어의 syntax
 highlighting을 쓸 수 있게 됩니다.
 
-* [The K- Language](http://ropas.snu.ac.kr/~ta/4190.310/15/document/K_doc/k-.pdf)
-* [The K-- Language](http://ropas.snu.ac.kr/~ta/4190.310/15/document/K_doc/k--.pdf)
+* [The K- Language][K-]
+* [The K-- Language][K--]
 
 #### Contibutors
 - [kcm1700](https://github.com/kcm1700)
@@ -23,3 +22,5 @@ highlighting을 쓸 수 있게 됩니다.
 - Me
 
 [vim-plug]: https://github.com/junegunn/vim-plug
+[K-]: http://ropas.snu.ac.kr/~ta/4190.310/15/document/K_doc/k-.pdf
+[K--]: http://ropas.snu.ac.kr/~ta/4190.310/15/document/K_doc/k--.pdf
